@@ -2,8 +2,15 @@
   {
     "hw_name":"manhvp92",
     "hw_id":"ec5718faa9a703fecdd6a1391f40af7453e4e280fbdb60825ec31adecb6f0739",
-    "license":"gAAAAABoSUBMPljlb0OUcPfX-gszVGhBThrO7G4meF7YSW4VQQdivv-zI2IZ3753JmaYYZAWzcaKssDmb7c6pSPT_pvagx63aZqSJXxUONWHqWgITtWHVas=",
-    "expiry":"2025-06-11 17:00:00",
-    "note":"notetest"
+    "license":"gAAAAABoSUb0ULSRSPwptHj70oAGjDmpwv4eBFGb7E0tsJYfi4hYKCYN7QS4FIxdaqxlT-YKPABxJFw4InRTWyn0h2gNPBJazZEyCfO9OTKSHKXVVI-KSNE=",
+    "expiry":"2025-12-31 23:59:59",
+    "note":""
+  },
+  {
+    "hw_name":"remote",
+    "hw_id":"ec5718faa9a703fecdd6a1391f40af7453e4e280fbdb60825ec31adecb6f0739",
+    "license":"gAAAAABoSUbJKWkN927rhFESU2JO98oJ4Lrfp5scAI33_vfeiYSkT2sg0mwE64HpIJchl6Te6kxYe8cI7n7lapEVin50uY9S-6FOyDmMoSIrxfGsQliwGGs=",
+    "expiry":"2025-07-11 15:00:00",
+    "note":""
   }
 ]
