@@ -3,21 +3,28 @@
     "hw_name":"manhvp92",
     "hw_id":"ec5718faa9a703fecdd6a1391f40af7453e4e280fbdb60825ec31adecb6f0739",
     "license":"gAAAAABoSUb0ULSRSPwptHj70oAGjDmpwv4eBFGb7E0tsJYfi4hYKCYN7QS4FIxdaqxlT-YKPABxJFw4InRTWyn0h2gNPBJazZEyCfO9OTKSHKXVVI-KSNE=",
-    "expiry":"2025-12-31 23:59:59",
+    "expiry":"",
     "note":""
   },
   {
     "hw_name":"remote",
     "hw_id":"56b6ffbab0f28efe552577cdec0446898b26777cd4a496972270dad2fc763d8e",
     "license":"gAAAAABoSUbJKWkN927rhFESU2JO98oJ4Lrfp5scAI33_vfeiYSkT2sg0mwE64HpIJchl6Te6kxYe8cI7n7lapEVin50uY9S-6FOyDmMoSIrxfGsQliwGGs=",
-    "expiry":"2025-07-11 15:00:00",
+    "expiry":"",
     "note":""
   },
   {
-    "hw_name":"Hải 1389",
+    "hw_name":"Hải 1389 Máy 1",
     "hw_id":"ccc51d7fc816d711438e7c6c79c442311b590fb488783bc96310d4174dec6cad",
-    "license":"gAAAAABoSUtY5iXraiTRu6WvDObraHQgAWvFfEv8L_jdZev7NS0cS--InHXzgo9HVfIpI-3rNwbXo_tSWi15UrsqhH4cLJC67tJoW057PopIVtL4fXwgv6s=",
-    "expiry":"2025-06-11 20:00:00",
+    "license":"gAAAAABoSY44aTm-sSmvYqNqlELSOt8sW_a57-St6sLBDnw1RjDA3uHGQ1rHyUC07B4PbKkSyN8MQH0H4N1zbAGFuxDdLwRPCIdkKGK_qZIOnCPD40NFe1Q=",
+    "expiry":"",
+    "note":""
+  },
+  {
+    "hw_name":"Hải 1389 Máy 2",
+    "hw_id":"7d566043788164c50cb68a10c16d86c792fab12938c8e9d410d8dd8712eaf0c6",
+    "license":"gAAAAABoSY3ej4oyATvpKEVk-wPSd2bNTEBtVj8NnMuEZW-XAiw2xO1AtX4dI-YDyerbZkOANVxj6rZ0Ca2O2XKbnnvz08Z62pBRAX3XNd00ln8dPMLBXOQ=",
+    "expiry":"",
     "note":""
   }
 ]
