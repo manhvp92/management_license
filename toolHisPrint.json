@@ -15,10 +15,17 @@
     "note":""
   },
   {
-    "hw_name":"Máy 1 Lạc Việt",
+    "hw_name":"Máy 1 Lạc Việt-59122586",
     "hw_id":"b4629a60752d3863a23ccd21bf95027e6816ae65228a174d810a080d5449abce",
     "license":"gAAAAABoUiqzJM2KNCMujB-YROGGHLqULhS5Es5NGk53gbuB8mY6y9VLFP0xkwcpSdPVwkmuoyfJkIQVtH1haUYA23j-CZazUomuaQG4w75ef8O7_VzVOwU=",
     "expiry":"2025-06-30 08:00:00",
-    "note":"Máy 1 Lạc Việt"
+    "note":"Máy 1 Lạc Việt-59122586"
+  },
+  {
+    "hw_name":"Máy 2 Lạc Việt-107946034",
+    "hw_id":"8d5784fc612c1cc17cb70af7f95ab52efc91790c11ad1e304656a8651f647770",
+    "license":"gAAAAABoUiqzJM2KNCMujB-YROGGHLqULhS5Es5NGk53gbuB8mY6y9VLFP0xkwcpSdPVwkmuoyfJkIQVtH1haUYA23j-CZazUomuaQG4w75ef8O7_VzVOwU=",
+    "expiry":"2025-06-30 08:00:00",
+    "note":"Máy 2 Lạc Việt-107946034"
   }
 ]
